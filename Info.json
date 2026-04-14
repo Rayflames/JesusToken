@@ -1,0 +1,10 @@
+{
+  "name": "Jesus Token",
+  "type": "BEP20",
+  "symbol": "JSUS",
+  "decimals": 7,
+  "description": "Jesus Token is a BEP20 token deployed on BNB Smart Chain.",
+  "website": "https://rayflames.github.io/JesusToken/",
+  "explorer": "https://bscscan.com/address/0xF9EcFa392d2D7014B9779154EB031833B3e9A631",
+  "id": "0xF9EcFa392d2D7014B9779154EB031833B3e9A631"
+}
